@@ -1,0 +1,12 @@
+*.pyc
+__pycache__/
+db.sqlite3
+.DS_Store
+venv/
+env/
+.env
+cart/migrations/0*.py
+!cart/migrations/__init__.py
+output.txt
+test_script.py
+test_all_apis.py
