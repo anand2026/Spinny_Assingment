@@ -31,3 +31,23 @@ python manage.py seed_data
 ```bash
 python manage.py runserver 8000
 ```
+
+## API Postman Screenshots
+
+### 1. Add Item to Cart (POST)
+![Add Item](images/1-add-item.png)
+
+### 2. Get Cart Items (GET)
+![Get Cart](images/2-get-cart.png)
+
+### 3. Update Cart Item (PUT)
+![Update Item](images/3-update-item.png)
+
+### 4. Remove Item (DELETE)
+![Remove Item](images/4-remove-item.png)
+
+### 5. Checkout (POST)
+![Checkout](images/5-checkout.png)
+
+### 6. Place Order (POST)
+![Place Order](images/6-place-order.png)
